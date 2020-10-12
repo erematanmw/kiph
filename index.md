@@ -15,8 +15,8 @@ Die Projektleitung liegt an der [Universität Graz](https://www.uni-graz.at/) / 
 * Kommunikationsplattform: Slack
 
 ## Projektergebnisse
-* Dokumentationsplattform
-* Leitfaden
+* Dokumentationsplattform (Github-Wiki: [https://github.com/erematanmw/kiph/wiki](https://github.com/erematanmw/kiph/wiki))
+* Leitfaden: erhältlich auf der [fnma Homepage](https://www.fnma.at/publikationen/eigene-publikationen)
 
 ## Kontakt
 * Projektleiter: [Michael Raunig](mailto:michael.raunig@uni-graz.at)
